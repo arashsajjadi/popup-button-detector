@@ -225,9 +225,8 @@ This project is open-source under the **MIT License**.
 ---
 
 ## **👨‍💻 Author**
-**Developed by [Your Name]**  
-Contact: [Your Email]  
-GitHub: [Your GitHub Profile]  
+**Developed by Arash Sajjadi**  
+**Code improvement and debugging using free source LLMs**
 
 ---
 
